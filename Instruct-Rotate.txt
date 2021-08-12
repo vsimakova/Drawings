@@ -1,0 +1,2 @@
+width=400, height=400
+shape=square, scale=200, x=100, y=50, filled=false, red=255, rep=6, repRot=15

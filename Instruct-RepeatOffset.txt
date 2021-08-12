@@ -1,0 +1,15 @@
+width=400, height=400
+shape=square, x=0,   y=0,   filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=4
+shape=square, x=200, y=0,   filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=2
+shape=square, x=0,   y=200, filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=2
+shape=square, x=100, y=0,   filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=3
+shape=square, x=0,   y=100, filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=3
+shape=square, x=300, y=0,   filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=1
+shape=square, x=0,   y=300, filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=1
+shape=heart,  x=0,   y=0,   filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=4
+shape=heart,  x=200, y=0,   filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=2
+shape=heart,  x=0,   y=200, filled=true, red=255, green=0, blue=221, repOffX=100, repOffY=100, rep=2
+shape=heart,  x=100, y=0,   filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=3
+shape=heart,  x=0,   y=100, filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=3
+shape=heart,  x=300, y=0,   filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=1
+shape=heart,  x=0,   y=300, filled=true, red=149, green=0, blue=255, repOffX=100, repOffY=100, rep=1

@@ -1,0 +1,7 @@
+width=400, height=400
+shape=square, scale=200, x=100, y=50, filled=false, red=255
+shape=square, scale=200, x=100, y=50, filled=false, red=255, rotate=15
+shape=square, scale=200, x=100, y=50, filled=false, red=255, rotate=30
+shape=square, scale=200, x=100, y=50, filled=false, red=255, rotate=45
+shape=square, scale=200, x=100, y=50, filled=false, red=255, rotate=60
+shape=square, scale=200, x=100, y=50, filled=false, red=255, rotate=75

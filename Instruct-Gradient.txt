@@ -1,0 +1,2 @@
+width=400, height=400, gradDir=0, gradStartRed=255, gradStartGreen=230, gradStartBlue=0, gradEndRed=255, gradEndGreen=123, gradEndBlue=0
+shape=circle, scale=200, x=100, y=50, filled=true, red=255, green=100, blue=0

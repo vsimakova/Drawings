@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=InstructGui
+comment0.text=\n\ Manages\ the\ GUI\ for\ instruction\ file\ creation\n\n\ @author\ \ \ \ \ \ \ \ \ \ Bill\ Barry\n\ @version\ \ \ \ \ \ \ \ \ 2018-09-09\n
+comment1.params=
+comment1.target=InstructGui()
+comment1.text=\n\ Private\ constructor\ meant\ to\ defeat\ instantiation;\ this\ class\ is\ really\ only\ meant\ to\ be\ used\ via\ main\ method\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Runs\ the\ show,\ creating\ windows,\ attaching\ the\ panels,\ and\ getting\ everything\ rolling\n\ \n\ @param\ \ \ args\ \ \ \ a\ list\ of\ command\ line\ arguments\n
+comment3.params=
+comment3.target=javax.swing.DefaultListModel\ getCanvasListModel()
+comment3.text=\n\ Retrieves\ the\ list\ model\ for\ canvas\ instructions\n\ \n\ @return\ \ \ \ \ \ the\ list\ model\ for\ the\ canvas\ instructions\n
+comment4.params=
+comment4.target=javax.swing.DefaultListModel\ getDrawListModel()
+comment4.text=\n\ Retrieves\ the\ list\ model\ for\ draw\ instructions\n\ \n\ @return\ \ \ \ \ \ the\ list\ model\ for\ the\ draw\ instructions\n
+comment5.params=dir
+comment5.target=boolean\ switchViews(InstructGui.ViewSwitchDirection)
+comment5.text=\n\ Switches\ between\ available\ views\n\ \n\ @param\ \ \ dir\ \ \ \ \ the\ direction\ of\ the\ view\ switch\n
+comment6.params=owner
+comment6.target=void\ writeToFile(javax.swing.JPanel)
+comment6.text=\n\ Writes\ all\ instructions\ to\ a\ user-selectable\ file\n\ \n\ @param\ \ \ owner\ \ \ \ \ \ \ the\ panel\ that\ is\ calling\ the\ file\ chooser\ dialog\n
+comment7.params=color\ prefix
+comment7.target=java.lang.String\ colorToRgb(java.awt.Color,\ java.lang.String)
+comment7.text=\n\ Turns\ a\ Color\ into\ an\ instruction-file-appropriate\ string,\ with\ a\ prefix\ prepended\ as\ requested\n\ \n\ @param\ \ \ color\ \ \ the\ color\ to\ turn\ into\ a\ string\n\ @param\ \ \ prefix\ \ the\ prefix\ to\ prepend\ onto\ each\ resulting\ color\ command\n\ @return\ \ \ \ \ \ \ \ \ \ the\ instruction-file-ready\ string;\ empty\ if\ color\ is\ null\n
+numComments=8

@@ -1,0 +1,4 @@
+width=600, height=400, red=220, blue=255, green=220
+shape=square, scale=200, x=100, y=50, filled=false, red=255
+shape=star, scale=50, x=350, y=250, green=255
+shape=circle, scale=100, x=50, y=150, blue=200, green=100
